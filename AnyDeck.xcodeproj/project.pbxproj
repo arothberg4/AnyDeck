@@ -59,15 +59,23 @@
 		6680F98821742D2D0023823C /* AnyDeck */ = {
 			isa = PBXGroup;
 			children = (
+				6680F99F21742F490023823C /* Storyboards */,
 				6680F98921742D2D0023823C /* AppDelegate.swift */,
 				6680F98B21742D2D0023823C /* FirstViewController.swift */,
 				6680F98D21742D2D0023823C /* SecondViewController.swift */,
-				6680F98F21742D2D0023823C /* Main.storyboard */,
 				6680F99221742D2E0023823C /* Assets.xcassets */,
-				6680F99421742D2E0023823C /* LaunchScreen.storyboard */,
 				6680F99721742D2E0023823C /* Info.plist */,
 			);
 			path = AnyDeck;
+			sourceTree = "<group>";
+		};
+		6680F99F21742F490023823C /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				6680F98F21742D2D0023823C /* Main.storyboard */,
+				6680F99421742D2E0023823C /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
